@@ -1,0 +1,17 @@
+# WorkBuddy 本地配置
+.workbuddy/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件
+*.tmp
+*.log
